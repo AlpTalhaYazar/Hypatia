@@ -1,0 +1,15 @@
+C:\Users\talha\source\repos\20210903\02_Introduction\bin\Debug\net5.0\02_Introduction.exe
+C:\Users\talha\source\repos\20210903\02_Introduction\bin\Debug\net5.0\02_Introduction.deps.json
+C:\Users\talha\source\repos\20210903\02_Introduction\bin\Debug\net5.0\02_Introduction.runtimeconfig.json
+C:\Users\talha\source\repos\20210903\02_Introduction\bin\Debug\net5.0\02_Introduction.runtimeconfig.dev.json
+C:\Users\talha\source\repos\20210903\02_Introduction\bin\Debug\net5.0\02_Introduction.dll
+C:\Users\talha\source\repos\20210903\02_Introduction\bin\Debug\net5.0\ref\02_Introduction.dll
+C:\Users\talha\source\repos\20210903\02_Introduction\bin\Debug\net5.0\02_Introduction.pdb
+C:\Users\talha\source\repos\20210903\02_Introduction\obj\Debug\net5.0\02_Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\source\repos\20210903\02_Introduction\obj\Debug\net5.0\02_Introduction.AssemblyInfoInputs.cache
+C:\Users\talha\source\repos\20210903\02_Introduction\obj\Debug\net5.0\02_Introduction.AssemblyInfo.cs
+C:\Users\talha\source\repos\20210903\02_Introduction\obj\Debug\net5.0\02_Introduction.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\20210903\02_Introduction\obj\Debug\net5.0\02_Introduction.dll
+C:\Users\talha\source\repos\20210903\02_Introduction\obj\Debug\net5.0\ref\02_Introduction.dll
+C:\Users\talha\source\repos\20210903\02_Introduction\obj\Debug\net5.0\02_Introduction.pdb
+C:\Users\talha\source\repos\20210903\02_Introduction\obj\Debug\net5.0\02_Introduction.genruntimeconfig.cache
