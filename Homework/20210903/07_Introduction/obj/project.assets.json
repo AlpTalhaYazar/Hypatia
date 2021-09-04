@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\talha\\source\\repos\\20210903\\07_Introduction\\07_Introduction.csproj",
+      "projectUniqueName": "C:\\Users\\talha\\source\\repos\\Hypatia\\Homework\\20210903\\07_Introduction\\07_Introduction.csproj",
       "projectName": "07_Introduction",
-      "projectPath": "C:\\Users\\talha\\source\\repos\\20210903\\07_Introduction\\07_Introduction.csproj",
+      "projectPath": "C:\\Users\\talha\\source\\repos\\Hypatia\\Homework\\20210903\\07_Introduction\\07_Introduction.csproj",
       "packagesPath": "C:\\Users\\talha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\talha\\source\\repos\\20210903\\07_Introduction\\obj\\",
+      "outputPath": "C:\\Users\\talha\\source\\repos\\Hypatia\\Homework\\20210903\\07_Introduction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

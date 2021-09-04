@@ -13,7 +13,7 @@ namespace _01_Introduction
 
             if (!a || !b)
             {
-                Console.Write("Lutfen Girdilerinizi kontrol ediniz.");
+                Console.Write("Lutfen girdiginiz degerleri kontrol ediniz.");
             }
             else
             {

@@ -4,30 +4,9 @@ using System.Linq;
 namespace _05_Introduction
 {
     class Program
-    {
-        //static string findMax(int x)
-        //{
-        //    string[] personName = new string[x];
-        //    int[] personAge = new int[x];
-
-        //    for (int i = 0; i < x; i++)
-        //    {
-        //        Console.Write($"{i + 1}. kisinin adini giriniz : ");
-        //        personName[i] = Console.ReadLine();
-        //        Console.Write($"{i + 1}. kisinin yasini giriniz : ");
-        //        personAge[i] = int.Parse(Console.ReadLine());
-        //    }
-
-        //    int maxIndex = Array.FindIndex(personAge, x => x.Equals(personAge.Max()));
-
-        //    return (personName[maxIndex]);
-        //}
+    {        
         static void Main(string[] args)
         {
-            //Console.WriteLine("Kac kisiyi karsilastirmak istersiniz?");
-            //int x = int.Parse(Console.ReadLine());
-            //Console.Write($"En Yasli kisi { findMax(x)}.");
-
             Console.Write("Birinci kisinin adini giriniz : ");
             string person1Name = Console.ReadLine();
             Console.Write("Birinci kisinin yasini giriniz : ");
@@ -97,6 +76,27 @@ namespace _05_Introduction
                 }
             }
             Console.ReadKey();
+
+            //Console.WriteLine("Kac kisiyi karsilastirmak istersiniz?");
+            //int x = int.Parse(Console.ReadLine());
+            //Console.Write($"En Yasli kisi { findMax(x)}.");
         }
+        //static string findMax(int x)
+        //{
+        //    string[] personName = new string[x];
+        //    int[] personAge = new int[x];
+
+        //    for (int i = 0; i < x; i++)
+        //    {
+        //        Console.Write($"{i + 1}. kisinin adini giriniz : ");
+        //        personName[i] = Console.ReadLine();
+        //        Console.Write($"{i + 1}. kisinin yasini giriniz : ");
+        //        personAge[i] = int.Parse(Console.ReadLine());
+        //    }
+
+        //    int maxIndex = Array.FindIndex(personAge, x => x.Equals(personAge.Max()));
+
+        //    return (personName[maxIndex]);
+        //}
     }
 }

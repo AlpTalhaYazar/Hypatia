@@ -7,18 +7,25 @@ namespace _06_Introduction
         static void Main(string[] args)
         {
             Console.Write("Birinci urunun fiyatini giriniz : ");
-            double urun1fiyat = Convert.ToDouble(Console.ReadLine());
+            bool a = double.TryParse(Console.ReadLine(), out double urun1fiyat);
             Console.Write("Ikinci urunun fiyatini giriniz : ");
-            double urun2fiyat = Convert.ToDouble(Console.ReadLine());
+            bool b = double.TryParse(Console.ReadLine(), out double urun2fiyat);
 
-            Console.Write($"Toplam tutar : {urun1fiyat + urun2fiyat}");
 
-            if (urun1fiyat + urun2fiyat > 200)
+            if (!a && !b)
             {
-                urun2fiyat = (urun2fiyat - (urun2fiyat * 0.25));
-                Console.Write($"\nIndirim sonucu tutar : {urun1fiyat + urun2fiyat}");
+                Console.Write("Lutfen girdiginiz degerleri kontrol ediniz.");
             }
+            else
+            {
+                Console.Write($"Toplam tutar : {urun1fiyat + urun2fiyat}");
 
+                if (urun1fiyat + urun2fiyat > 200)
+                {
+                    urun2fiyat = (urun2fiyat - (urun2fiyat * 0.25));
+                    Console.Write($"\nIndirim sonucu tutar : {urun1fiyat + urun2fiyat}");
+                }
+            }
 
 
             Console.ReadKey();
