@@ -1,0 +1,16 @@
+C:\Users\talha\source\repos\Hypatia\Homework\20210905\03_Introduction\bin\Debug\net5.0\03_Introduction.exe
+C:\Users\talha\source\repos\Hypatia\Homework\20210905\03_Introduction\bin\Debug\net5.0\03_Introduction.deps.json
+C:\Users\talha\source\repos\Hypatia\Homework\20210905\03_Introduction\bin\Debug\net5.0\03_Introduction.runtimeconfig.json
+C:\Users\talha\source\repos\Hypatia\Homework\20210905\03_Introduction\bin\Debug\net5.0\03_Introduction.runtimeconfig.dev.json
+C:\Users\talha\source\repos\Hypatia\Homework\20210905\03_Introduction\bin\Debug\net5.0\03_Introduction.dll
+C:\Users\talha\source\repos\Hypatia\Homework\20210905\03_Introduction\bin\Debug\net5.0\ref\03_Introduction.dll
+C:\Users\talha\source\repos\Hypatia\Homework\20210905\03_Introduction\bin\Debug\net5.0\03_Introduction.pdb
+C:\Users\talha\source\repos\Hypatia\Homework\20210905\03_Introduction\obj\Debug\net5.0\03_Introduction.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\Hypatia\Homework\20210905\03_Introduction\obj\Debug\net5.0\03_Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\source\repos\Hypatia\Homework\20210905\03_Introduction\obj\Debug\net5.0\03_Introduction.AssemblyInfoInputs.cache
+C:\Users\talha\source\repos\Hypatia\Homework\20210905\03_Introduction\obj\Debug\net5.0\03_Introduction.AssemblyInfo.cs
+C:\Users\talha\source\repos\Hypatia\Homework\20210905\03_Introduction\obj\Debug\net5.0\03_Introduction.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\Hypatia\Homework\20210905\03_Introduction\obj\Debug\net5.0\03_Introduction.dll
+C:\Users\talha\source\repos\Hypatia\Homework\20210905\03_Introduction\obj\Debug\net5.0\ref\03_Introduction.dll
+C:\Users\talha\source\repos\Hypatia\Homework\20210905\03_Introduction\obj\Debug\net5.0\03_Introduction.pdb
+C:\Users\talha\source\repos\Hypatia\Homework\20210905\03_Introduction\obj\Debug\net5.0\03_Introduction.genruntimeconfig.cache
