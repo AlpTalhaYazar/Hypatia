@@ -1,0 +1,12 @@
+C:\Users\talha\source\repos\20210910_OOP\03_OOP\bin\Debug\net5.0\03_OOP.deps.json
+C:\Users\talha\source\repos\20210910_OOP\03_OOP\bin\Debug\net5.0\03_OOP.dll
+C:\Users\talha\source\repos\20210910_OOP\03_OOP\bin\Debug\net5.0\ref\03_OOP.dll
+C:\Users\talha\source\repos\20210910_OOP\03_OOP\bin\Debug\net5.0\03_OOP.pdb
+C:\Users\talha\source\repos\20210910_OOP\03_OOP\obj\Debug\net5.0\03_OOP.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\20210910_OOP\03_OOP\obj\Debug\net5.0\03_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\source\repos\20210910_OOP\03_OOP\obj\Debug\net5.0\03_OOP.AssemblyInfoInputs.cache
+C:\Users\talha\source\repos\20210910_OOP\03_OOP\obj\Debug\net5.0\03_OOP.AssemblyInfo.cs
+C:\Users\talha\source\repos\20210910_OOP\03_OOP\obj\Debug\net5.0\03_OOP.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\20210910_OOP\03_OOP\obj\Debug\net5.0\03_OOP.dll
+C:\Users\talha\source\repos\20210910_OOP\03_OOP\obj\Debug\net5.0\ref\03_OOP.dll
+C:\Users\talha\source\repos\20210910_OOP\03_OOP\obj\Debug\net5.0\03_OOP.pdb
